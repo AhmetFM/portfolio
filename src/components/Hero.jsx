@@ -32,7 +32,7 @@ function Hero() {
             src="/images/afm.jpeg"
             width={160}
             height={160}
-            alt="Profile Picture"
+            alt="Ahmet Furkan Meriç Profile Picture"
           />
         </div>
       </div>
